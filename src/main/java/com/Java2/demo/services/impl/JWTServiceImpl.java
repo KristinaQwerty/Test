@@ -15,6 +15,7 @@ import java.util.Date;
 import java.util.function.Function;
 
 @Service
+
 public class JWTServiceImpl implements JWTService {
 
 
